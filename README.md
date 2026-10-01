@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OSrupChmztcs8s-jjMuyXK7diRoSMSBo?usp=sharing)
 
 Tugas Computer Vision (Assignment 02), **Opsi C — YOLO**
-Penulis: **Royan Aditya** — Magister Kecerdasan Artifisial, Universitas Gadjah Mada
+Penulis: **Royan Aditya** 
 
 ---
 
