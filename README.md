@@ -2,7 +2,7 @@
 
 **Pengaruh Resolusi Input 640×640 vs 1280×1280 pada VisDrone2019-DET**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TnAlv6CbAk7BmOWFfBnA2fgfowAaRCaE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OSrupChmztcs8s-jjMuyXK7diRoSMSBo?usp=sharing)
 
 Tugas Computer Vision (Assignment 02), **Opsi C — YOLO**
 Penulis: **Royan Aditya** — Magister Kecerdasan Artifisial, Universitas Gadjah Mada
